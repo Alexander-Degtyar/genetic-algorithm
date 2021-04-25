@@ -1,3 +1,8 @@
+# Oleksandr Dehtiar and Danyil Tkachenko
+# Design Automation department, NURE, Kharkiv, Ukraine
+# 2021
+
+
 import common as task
 import numpy as np
 from sympy import *
