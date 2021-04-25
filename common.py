@@ -1,3 +1,7 @@
+# Oleksandr Dehtiar and Danyil Tkachenko
+# Design Automation department, NURE, Kharkiv, Ukraine
+# 2021
+
 class Variant:
     def __init__(self):
         self.a = None
