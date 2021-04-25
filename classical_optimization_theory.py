@@ -1,3 +1,7 @@
+# Oleksandr Dehtiar and Danyil Tkachenko
+# Design Automation department, NURE, Kharkiv, Ukraine
+# 2021
+
 import numpy as np
 from sympy import *
 import matplotlib
